@@ -32,9 +32,9 @@ FreeAdobe是一款Adobe优化软件，可以优化Adobe CC系列的各种软件�
 
 ## 更新地址
 
-请到我的GitHub获取最新版本的FreeAdobe：
+最新版本的FreeAdobe下载地址【支持adobe 2019 2020 2021全家桶】：
 
-[https://github.com/bestyize/FreeAdobePublic](https://github.com/bestyize/FreeAdobePublic)
+[https://www.lanzoui.com/ilxhVhnlyza](https://www.lanzoui.com/ilxhVhnlyza)
 
 本页地址：
 
