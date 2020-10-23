@@ -1,4 +1,6 @@
-# Free Adobe 1.0
+# Free Adobe 1.1（2020-10-24更新）
+
+更新内容-修复Bridge 2021离线且未登录状态下验证的问题
 
 @亦泽同学
 
@@ -34,7 +36,7 @@ FreeAdobe是一款Adobe优化软件，可以优化Adobe CC系列的各种软件�
 
 最新版本的FreeAdobe下载地址【支持adobe 2019 2020 2021全家桶】：
 
-[https://www.lanzoui.com/ilxhVhnlyza](https://www.lanzoui.com/ilxhVhnlyza)
+[https://www.lanzoui.com/b05mln8id](https://www.lanzoui.com/b05mln8id)
 
 本页地址：
 
