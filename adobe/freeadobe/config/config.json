@@ -1,9 +1,9 @@
 {
     "version":"1.0",
     "download":"https://bestyize.github.io/adobe/freeadobe",
-    "title":"更新提醒",
-    "notice":"暂时没有新版本",
+    "title":"重要通知",
+    "notice":"FreeAdobe暂时有BUG没有解决，暂停使用",
     "verify":"0",
-    "enable":"1"
+    "enable":"0"
 }
 
