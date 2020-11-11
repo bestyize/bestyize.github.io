@@ -12,4 +12,4 @@
 
 4、[Wise Care 365 通杀补丁](software/wisecare)
 
-5、[某B系列软件通杀分析](software/jiamishoft)
+5、[某B系列软件通杀分析](software/jiamisoft)
